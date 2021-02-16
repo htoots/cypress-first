@@ -1,0 +1,22 @@
+{
+  "name": "cypress-first",
+  "version": "0.0.1",
+  "description": "basic cypress tests for school",
+  "main": "cypress",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htoots/cypress-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htoots/cypress-first/issues"
+  },
+  "homepage": "https://github.com/htoots/cypress-first#readme",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  }
+}
